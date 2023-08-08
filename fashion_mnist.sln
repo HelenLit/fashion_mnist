@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "fashion_mnist", "fashion_mnist.pyproj", "{54F06BBB-2620-4C91-B12B-ABA1ED35B7C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54F06BBB-2620-4C91-B12B-ABA1ED35B7C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F06BBB-2620-4C91-B12B-ABA1ED35B7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7759D460-1DCF-463F-A81A-F298882BEA81}
+	EndGlobalSection
+EndGlobal
